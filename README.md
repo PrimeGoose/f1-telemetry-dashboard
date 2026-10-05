@@ -1,6 +1,6 @@
 # F1 Telemetry Dashboard
 
-[![CI](https://github.com/OWNER/f1-telemetry-dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/f1-telemetry-dashboard/actions/workflows/ci.yml)
+[![CI](https://github.com/PrimeGoose/f1-telemetry-dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/PrimeGoose/f1-telemetry-dashboard/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 A demo-able racing telemetry dashboard: **speed, throttle, brake, gear, RPM, lap and sector times, a live track map and a time-delta chart**, all driven by a replay file. React 19 + TypeScript + Vite + Tailwind CSS 4, no chart library (hand-written SVG charts).
